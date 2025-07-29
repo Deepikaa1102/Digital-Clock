@@ -40,7 +40,7 @@ A clean, modern, and fully responsive **Digital Clock** web app built with HTML,
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/yourusername/digital-clock.git
+   https://github.com/Deepikaa1102/Digital-Clock
 Open in browser
 Just open index.html in your favorite browser — no server required.
 
