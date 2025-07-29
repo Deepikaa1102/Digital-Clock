@@ -41,13 +41,13 @@ A clean, modern, and fully responsive **Digital Clock** web app built with HTML,
 1. **Clone this repo**
    ```bash
    https://github.com/Deepikaa1102/Digital-Clock
-Open in browser
-Just open index.html in your favorite browser — no server required.
+2. **Open in browser**
+    Just open index.html in your favorite browser — no server required.
 
-💡 Inspiration
+## Inspiration
 This project was inspired by the idea of blending minimal UI design with nature — showing that even time can feel calm. A perfect little widget for dashboards, smart mirrors, or just daily motivation!
 
-Author
+## Author
 Made by [Deepikaa]
 
 “Time flies. But you’re the pilot.”
