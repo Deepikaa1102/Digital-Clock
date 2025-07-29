@@ -48,6 +48,6 @@ A clean, modern, and fully responsive **Digital Clock** web app built with HTML,
 This project was inspired by the idea of blending minimal UI design with nature — showing that even time can feel calm. A perfect little widget for dashboards, smart mirrors, or just daily motivation!
 
 ## Author
-Made by [Deepikaa]
+Made by **Deepikaa**
 
-“Time flies. But you’re the pilot.”
+**“Time flies. But you’re the pilot.”**
