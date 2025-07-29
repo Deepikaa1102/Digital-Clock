@@ -6,7 +6,7 @@ A clean, modern, and fully responsive **Digital Clock** web app built with HTML,
 
 ## 📸 Preview
 
-![Clock Screenshot](./your-screenshot-path.png)
+![Clock Screenshot](https://github.com/Deepikaa1102/Digital-Clock/blob/main/Background%20Image.jpg)
 
 ---
 
